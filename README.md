@@ -41,7 +41,7 @@ If these instructions are unclear, click on the VHS tape below to watch the tuto
 
 *If you do not own a VCR player, or cannot locate one, then we apologize for the inconvenience.*
 *The E-Commerce business wasn't all it's cracked up to be.* 
-*We're really pinching pennies over here. We don't even have a store. Everything just sits on a chair next to my bed. And every morning, I have to wake up and look at that pile, knowing full well we haven't sold anything in weeks.  I'll be straight with you -- I wouldn't buy them. I  really wouldn't. But here we are. I mean, I took out a mortgage on my house for this. Now I'm clearing out the nice, ceramic plates from my kitchen cabinets to fit all the extra cargo shorts I ordered. Why did I ever think starting a business in my studio apartment was a good idea? Maybe this is what Marlene was talking about when she left.*
+*We're really pinching pennies over here. We don't even have a store. Everything just sits on a chair next to my bed. And every morning, I have to wake up and look at that pile, knowing full well we haven't sold anything in weeks.  I'll be straight with you -- I wouldn't buy them. I  really wouldn't. But here we are. I mean, I took out a mortgage on my ex-wife's house for this. Now I'm clearing out the nice, ceramic plates from my kitchen cabinets to fit all the extra cargo shorts I ordered. Why did I ever think running a business in my studio apartment was a good idea? Maybe this is what Marlene was talking about when she left.*
 
 *In other news, we're currently hiring software developers to modernize our business technologies.*
 *Interested applicants can apply* [here.](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
