@@ -3,9 +3,9 @@ const { Category, Product } = require('../../models');
 
 // The `/api/categories` endpoint
 
-router.get('/', (req, res) => {
-  // find all categories
-  // be sure to include its associated Products
+// find all categories
+// be sure to include its associated Products
+router.get("/", (req, res) => {
     Category.findAll({
       include: [
         { 
@@ -13,37 +13,43 @@ router.get('/', (req, res) => {
           attributes: ["id", "product_name", "price", "stock", "category_id"],
         },
       ],
-    }).then((category) => res.json(category))
+    })
+      .then((category) => res.json(category))
       .catch((err) => {
-      console.log(err);
-      res.status(500).json(err);
+        console.log(err);
+        res.status(500).json(err);
     });
-});
+  });
 
+// find one category by its `id` value
+// be sure to include its associated Products
 router.get('/:id', (req, res) => {
-  // find one category by its `id` value
-  // be sure to include its associated Products
-  Category.findByPk(req.params.id, {
+  Category.findOne({
+      where: {
+        id: req.params.id,
+      },
       include: [
         { 
           model: Product,
           attributes: ["id", "product_name", "price", "stock", "category_id"],
         },
       ],
-    }).then((category) => res.json(category))
-      .catch((err) => {
+    })
+    .then((category) => res.json(category))
+    .catch((err) => {
       console.log(err);
       res.status(500).json(err);
     });
-});
+  });
 
-
+// create a new category
 router.post('/', (req, res) => {
-  // create a new category
-    Category.create({category_name: req.body.category_name})
+    Category.create({
+      category_name: req.body.category_name
+    })
     .then((category) =>
-    res.json(
-      `✅ "${category.category_name}" created ... (ID: ${category.id})`
+      res.json(
+      `✅ New Category created ... (ID: ${category.id})`
     )
   )
   .catch((err) => {
@@ -61,19 +67,18 @@ router.put('/:id', (req, res) => {
       },
     })
     .then((category) =>
-    res.json(
-      `✅ "${category.category_name}" updated.`
+      res.json(
+      `✅ Category updated.`
     )
   )
     .catch((err) => {
-    console.log(err);
-    res.status(500).json(err);
+      console.log(err);
+      res.status(500).json(err);
+    });
   });
-});
     
-
+// delete a category by its `id` value  
 router.delete('/:id', (req, res) => {
-  // delete a category by its `id` value 
     Category.destroy({
       where: {
         id: req.params.id,
@@ -81,7 +86,7 @@ router.delete('/:id', (req, res) => {
     })
     .then((category) =>
     res.json(
-      `✅ "${category.category_name}" deleted.)`
+      `✅ Category deleted.)`
     )
   )
     .catch((err) => {
