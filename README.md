@@ -40,7 +40,7 @@ If these instructions are unclear, click on the VHS tape below to watch the tuto
 [![Video:](./assets/vhs.jpg)](https://drive.google.com/file/d/1RFWsBxji_RYM67l6TK_TkqnFiuWpSFaN/view?usp=sharing)
 
 *If you do not own a VCR player, or cannot locate one, then we apologize for the inconvenience.*
-*The E-Commerce business wasn't all it's cracked up to be.* 
+*E-Commerce wasn't all it's cracked up to be if I'm gonna be honest.* 
 *We're really pinchin' pennies over here. We don't even have a store yet. All of our merchandise is pilled up on a chair next to my bed. Every morning I wake up and look at that pile. Knowing full well we haven't sold anything in weeks.  I'll be straight with you -- I wouldn't buy them. I  really wouldn't. But here we are. I mean, I took out a mortgage on my home for this. For what? One minute you're cutting a red ribbon and the next your taking plates out of your kitchen cabinet to store a shipment of cargo shorts. Why did I ever think running a business in my apartment was a good idea? I don't know. Maybe this is what Elizabeth was talking about when she left.*
 
 *In other news, we're currently hiring software developers to modernize our business technologies.*
