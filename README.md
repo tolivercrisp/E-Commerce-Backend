@@ -41,20 +41,33 @@ If these instructions are unclear, click on the VHS tape below to watch the tuto
 
 *If you do not own a VCR player, or cannot locate one, then we apologize for the inconvenience.*
 *E-Commerce wasn't all it's cracked up to be if I'm gonna be honest.* 
-*We're really pinchin' pennies over here. I don't even have a store yet. All our merch is pilled up on a lawn chair next to my bed. Every morning I wake up and look at that pile. Knowing full well we haven't sold anything in weeks.  I'll be straight with you -- I wouldn't buy them. I really wouldn't. But here we are. I took out a mortgage for this. And for what? I swear. One minute you're cutting the red ribbon and the next you're taking plates out of your kitchen cabinet to store another shipment of cargo shorts. Maybe this is what Elizabeth was talking about when she left.*
+*We're really pinchin' pennies over here. Couldn't afford a storage unit, so there's a pile of loose button-downs and jeans on a lawn chair next to my bed. Every morning I wake up and look at that pile. Knowing full well I haven't sold a damn thing. Ha, I wouldn't buy them. I really wouldn't. But here we are. $50,000 and one divorce later. I took out a mortgage for this. And for what? I swear. One minute you're cutting the red ribbon and the next you're taking the nice plates out of your kitchen cabinet to hide another shipment of cargo shorts. Maybe this is what Elizabeth was talking about when she left. Maybe she was right.*
 
 *In other news, we're currently hiring software developers to modernize our business technologies!*
 
 *Interested applicants can apply* [here.](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-
+<br/>
+<br/>
+<br/>
 *That was a joke.*
-
+<br/>
+<br/>
+<br/>
 *Or was it?*
-
-
-
-
-*It was. Sorry for the confusion.*
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+*It was. Sorry.*
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+*...?*
 
 
 ## License
